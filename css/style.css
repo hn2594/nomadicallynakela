@@ -1,0 +1,183 @@
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface|Buenard|Roboto');
+/* add background color*/
+
+/* create a border around the header*/
+
+/* format photos in a flexbox structure*/
+
+/*header{
+    display:block;
+   align-content:space-between;
+}*/
+
+h1{
+    display:inline-block;
+}
+
+nav{
+margin-right:30px;
+margin-left: 30px;
+padding:10px;
+border:3px #ffffff solid;
+display:inline-block;
+color:#000000;
+width: 19%;
+}
+
+/*edit top id*/
+
+/*
+#top{
+    font-size: 40px;
+    padding-bottom: 50px;
+}
+*/
+
+.right{
+    border:3px #000000 solid;
+    display: inline-block;
+    padding:20px;
+    justify-context: space-around;
+    float:right;
+}
+
+.minor{
+    display:inline-block;
+    float:left;
+    padding-right: 10px;
+    padding-bottom: 60px
+}
+
+.tour{
+    display:inline block;
+}
+
+.items{
+    padding-right: 12px;
+}
+
+.flex{
+    justify-context: space-between;
+    align-content:center;
+    float:right;
+}
+
+body{
+    background-color: rgba(210, 180, 156, .4);
+    margin: 80px;
+}
+
+img{
+    margin-left:auto;
+    margin-right:auto;
+    padding:3px;
+    width:25%;
+    display: block;
+    margin-top: 2px;
+    justify-context: center;
+}
+
+
+.visit{
+   font-family: 'Abril Fatface', cursive;
+}
+
+.stretch{
+    margin-left: auto;
+    width: 100%;
+}
+
+#direction{
+    height:581px;
+}
+
+#faves{
+    font-family: Buenard;
+    background-color: #000000;
+    display:block;
+    margin:3px;
+    color:#ffffff;
+    justify-context:center
+    width: 100%;
+
+}
+
+#travel{
+    clear:both;
+    padding-top: 15px;
+}
+
+#span1{
+    width:100%;
+    }
+
+
+#span2{
+    width:100%;
+}
+
+#span3{
+    width:60%;
+    justify-context: center;
+}
+
+.icon{
+    margin-right: auto;
+    width: 12%;
+    float: right;
+    display:inline-block;
+    clear:both;
+    padding-left: 200px;
+    
+}
+
+#ig{
+    float:left;
+    padding-bottom: 10px;
+}
+
+.heading{
+    font family: Buenard;
+    color:#ffffff;
+    width: 30%;
+    background-color: #000000;
+    border:3px #ffffff solid;
+    text-align: center;
+    font-size:35px;
+    margin: auto;
+    
+}
+
+footer{
+    display:inline;
+}
+
+
+.minor{
+    justify-context: center;
+}
+
+.form{
+    float:right;
+    padding-top: 20px;
+    padding-right: 390px;
+}
+
+#me{
+    display:inline-block;
+    float:left;
+    width:30%;
+    padding-left: 200px;
+    padding-top: 30px;
+}
+
+.bio{
+    float: right;
+    display:inline-block;
+    width:50%;
+}
+.flex2{
+    justify-context: space-between;
+    align-content:center;
+    display: inline-block;
+    float:right;
